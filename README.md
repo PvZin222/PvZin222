@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**PvZin222/PvZin222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou o Pedro Vitor 👋
 
-Here are some ideas to get you started:
+🎓 Estudante de Ciência da Computação  
+💻 Aprendendo Python, HTML, CSS e JavaScript  
+🛠️ Trabalhando em pequenos projetos para praticar lógica e desenvolvimento web  
+📍 Brasília - DF  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologias que estou estudando:
+- Python 🐍
+- HTML e CSS 🌐
+- JavaScript ⚙️
+- SQL e Banco de Dados 🗃️
+
+---
+
+### 📈 Meus status no GitHub:
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PvZin222&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PvZin222&layout=compact&theme=github_dark)
+
+---
+
+### 📫 Como me encontrar:
+- ✉️ gomesferreirapedrovitor@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedrovitor222/)  
+
+---
+
+⭐ Sempre em busca de aprender mais e compartilhar conhecimento!
